@@ -1,47 +1,47 @@
-@charset "utf-8";
-/* CSS Document */
-h1,h2,h3
-{
-font-family: "comic sans ms", arial, 'sans serif'; 
-}
-
-p,table,li,address
-{
-font-family: "comic sans ms", arial, 'sans serif'; 
-margin-left: 10pt;
-}
-
-p,li,th,td
-{
-font-size: 75%;
-}
-
-h1,h2,h3,hr
-{
-color:saddlebrown;
-}
-
-a:link     
-		   { color:saddlebrown;
-			 text-decoration:none
-		   }
-a:visited  { color:saddlebrown;
-			 text-decoration:blink;
-
-
-}
-a:active   { color:#E17100;
-			 text-decoration:none;
-			 background-color:#FF9;
-			 text-shadow:#900;
-
-}
-a:hover    { color:#90C;
-			 text-decoration:underline
-
-}
-
-body
-{
-background-color: #EFE7D6;
-}
+@charset "utf-8";
+/* CSS Document */
+h1,h2,h3
+{
+font-family: "comic sans ms", arial, 'sans serif'; 
+}
+
+p,table,li,address
+{
+font-family: "comic sans ms", arial, 'sans serif'; 
+margin-left: 10pt;
+}
+
+p,li,th,td
+{
+font-size: 75%;
+}
+
+h1,h2,h3,hr
+{
+color:saddlebrown;
+}
+
+a:link     
+		   { color:saddlebrown;
+			 text-decoration:none
+		   }
+a:visited  { color:saddlebrown;
+			 text-decoration:blink;
+
+
+}
+a:active   { color:#E17100;
+			 text-decoration:none;
+			 background-color:#FF9;
+			 text-shadow:#900;
+
+}
+a:hover    { color:#90C;
+			 text-decoration:underline
+
+}
+
+body
+{
+background-color: #EFE7D6;
+}
