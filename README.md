@@ -1,2 +1,2 @@
 # pnpvectorwebsite
-ООО "ПНП ВЕКТОР-А"
+static HTML-content web-site for ООО "ПНП ВЕКТОР-А" company
